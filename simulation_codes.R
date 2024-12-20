@@ -1,5 +1,5 @@
 #### Data Generation Code
-#Author: Tugay Kacak
+#Author: Anonymous Anonymous
 
 ##---Load required library and functions##
 library(mvtnorm) 
